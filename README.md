@@ -71,7 +71,7 @@ In a .NET 6 application, you can use libraries like `Microsoft.AspNetCore.Authen
 
 I have shared a detailed walkthrough of this project on LinkedIn. Check out the post for more insights and feel free to engage in the discussion.
 
-🔗 [LinkedIn Post - JWT in .NET 6: AuthenticationDemo]()
+🔗 [LinkedIn Post - JWT in .NET 6: AuthenticationDemo](https://www.linkedin.com/posts/ayushrudani_dotnet-dotnetdeveloper-jwt-activity-7158408101786722306-kBxi?utm_source=share&utm_medium=member_desktop)
 
 Feel free to connect with me on LinkedIn for more updates and discussions.
 
